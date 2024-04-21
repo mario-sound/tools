@@ -1,7 +1,7 @@
 # tools
 Tools for files and directories management.
 
-En este repositorio compartiré herramientas útiles para el manejo de archivos y directorios.\n
+En este repositorio compartiré herramientas útiles para el manejo de archivos y directorios.
 
 structure.py
   En este archivo, encontraremos diferentes funciones que nos permiten crear dos archivos de texto. "folders.txt" y "filedatabase.txt"
